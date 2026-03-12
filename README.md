@@ -1795,5 +1795,444 @@ D. The serial number of their device.
 - C. €100 Million.
 - D. 10% of turnover.
 
+---
+
+## Question 151
+
+**Which of the following best describes the concept of "Privacy as Default" under Article 25?**
+
+- A. All data should be made public by default.
+- B. Only the personal data necessary for each specific purpose should be processed by default, without intervention by the data subject.
+- C. Privacy settings should be hidden from users.
+- D. Controllers should default to storing all data forever.
+
+---
+
+## Question 152
+
+**What is the key distinction between a "Regulation" and a "Directive" in EU law?**
+
+- A. A Directive is directly binding in all Member States without needing national implementation; a Regulation is not.
+- B. A Regulation is directly binding and applicable in all Member States; a Directive requires Member States to enact their own national law to implement it.
+- C. There is no practical difference.
+- D. A Directive can only be passed by the Council, not the Parliament.
+
+---
+
+## Question 153
+
+**In the context of the European Convention on Human Rights (ECHR), why is Article 8 considered a "qualified" right rather than an absolute one?**
+
+- A. Because it only applies to citizens of the original six founding Member States.
+- B. Because public authorities can interfere with this right if the action is in accordance with the law and necessary in a democratic society for specific interests like national security or public safety.
+- C. Because it only protects "private life" and excludes "family life."
+- D. Because it is a non-binding guideline that national courts can ignore.
+
+---
+
+## Question 154
+
+**Which early data protection instrument was the first to be legally binding at an international level?**
+
+- A. The 1980 OECD Guidelines.
+- B. The Universal Declaration of Human Rights.
+- C. Convention 108 of 1981.
+- D. The 1995 Data Protection Directive.
+
+---
+
+## Question 155
+
+**The "Individual Participation Principle" established in the 1980 OECD Guidelines entitles an individual to which of the following?**
+
+- A. A share of the profits generated from the sale of their data.
+- B. The right to obtain from a data controller confirmation of whether the controller has data relating to them.
+- C. The right to veto any processing of their data by a government agency.
+- D. Mandatory membership in their national Data Protection Authority.
+
+---
+
+## Question 156
+
+**What is a notable feature of the 1980 OECD Guidelines regarding the technology used for processing?**
+
+- A. They apply only to mainframe computers.
+- B. They are technology-neutral and do not distinguish between personal information gathered electronically or otherwise.
+- C. They explicitly exclude paper-based records.
+- D. They require the use of specific encryption standards for all transmissions.
+
+---
+
+## Question 157
+
+**How does Convention 108 distinguish itself from the OECD Guidelines in terms of implementation?**
+
+- A. It allows signatories to choose whether or not to enact national legislation.
+- B. It requires signatories to take the necessary steps in their domestic legislation to apply its principles.
+- C. It focuses exclusively on the private sector, while the Guidelines focus on the public sector.
+- D. It is only open to countries physically located on the European continent.
+
+---
+
+## Question 158
+
+**Which of the following is NOT one of the "special categories of data" identified in Chapter II of Convention 108?**
+
+- A. Data revealing racial origin.
+- B. Data concerning health or sexual life.
+- C. Financial data and credit card numbers.
+- D. Political opinions or religious beliefs.
+
+---
+
+## Question 159
+
+**The "Additional Protocol" to Convention 108 (2001) was primarily designed to address which gap?**
+
+- A. The lack of a "Right to be Forgotten."
+- B. The absence of measures for transfers of personal information to non-signatory countries.
+- C. The need for a centralized European Data Protection Board.
+- D. The regulation of social media platforms.
+
+---
+
+## Question 160
+
+**The modernization of Convention 108, resulting in "Convention 108+," was formally approved in which year?**
+
+- A. 1995.
+- B. 2007.
+- C. 2012.
+- D. 2018.
+
+---
+
+## Question 161
+
+**The 1995 Data Protection Directive (95/46/EC) was adopted as a "harmonization measure" to support which core EU concept?**
+
+- A. The Common Agricultural Policy.
+- B. The internal market and the free movement of goods, persons, services, and capital.
+- C. The establishment of a unified military force.
+- D. The creation of a single European language for legal proceedings.
+
+---
+
+## Question 162
+
+**What was the primary reason for the shift from a "Directive" in 1995 to a "Regulation" in 2016?**
+
+- A. To allow Member States more freedom to create their own unique rules.
+- B. To ensure a higher level of fragmented implementation across the Union.
+- C. To maximize consistency of approach across all EU Member States and reduce legal uncertainty.
+- D. To exempt the public sector from all data protection obligations.
+
+---
+
+## Question 163
+
+**Which document, made legally binding by the Treaty of Lisbon, specifically establishes data protection as a freestanding right in Article 8?**
+
+- A. The European Convention on Human Rights.
+- B. The OECD Guidelines.
+- C. The Charter of Fundamental Rights of the European Union.
+- D. The Treaty of Rome.
+
+---
+
+## Question 164
+
+**Article 16(1) of the Treaty on the Functioning of the European Union (TFEU) provides that:**
+
+- A. Only EU citizens have the right to data protection.
+- B. Everyone has the right to the protection of personal data concerning them.
+- C. Data protection is secondary to the needs of the advertising industry.
+- D. Member States must abolish their national Data Protection Authorities.
+
+---
+
+## Question 165
+
+**What is the significance of the "One-Stop-Shop" mechanism introduced by the GDPR?**
+
+- A. It allows consumers to buy all their data protection software from one government portal.
+- B. It enables organizations to deal with a single lead supervisory authority in the country where they have their main establishment.
+- C. It prohibits organizations from operating in more than one Member State.
+- D. It requires all data subjects to lodge complaints in Brussels.
+
+---
+
+## Question 166
+
+**Under the GDPR, "Accountability" requires that an organization must be able to do what?**
+
+- A. Pay any fine within 24 hours of notification.
+- B. Demonstrate and provide evidence of its compliance with data protection principles.
+- C. Identify the name of every person whose data they have ever processed.
+- D. Prove that they have never experienced a data breach.
+
+---
+
+## Question 167
+
+**Which of the following is an "Opening Clause" in the GDPR that allows Member States to enact more specific national rules?**
+
+- A. The definition of personal data.
+- B. The processing of employee data.
+- C. The requirement for a lawful basis for processing.
+- D. The right of access to personal data.
+
+---
+
+## Question 168
+
+**Following Brexit, what is the primary legal framework for data protection in the United Kingdom?**
+
+- A. The 1995 Data Protection Directive.
+- B. The UK GDPR and the Data Protection Act 2018.
+- C. The US Privacy Act.
+- D. A total absence of data protection regulation.
+
+---
+
+## Question 169
+
+**The "Sunset Clause" in the UK adequacy decision means that:**
+
+- A. The decision only applies during daylight hours.
+- B. The decision automatically expires in four years and must be reviewed by the Commission.
+- C. Data transfers to the UK are prohibited after 2025.
+- D. The UK must rejoin the EU within four years.
+
+---
+
+## Question 170
+
+**Which landmark CJEU case invalidated the "Safe Harbor" framework for international data transfers?**
+
+- A. Weltimmo v. NAIH.
+- B. Google Spain.
+- C. Digital Rights Ireland.
+- D. Schrems (2015).
+
+---
+
+## Question 171
+
+**Which EU institution is the only one whose members are directly elected by EU citizens?**
+
+- A. The European Commission.
+- B. The European Parliament.
+- C. The Council of the European Union.
+- D. The European Council.
+
+---
+
+## Question 172
+
+**What is the current maximum number of members in the European Parliament?**
+
+- A. 100.
+- B. 500.
+- C. 705 standing (max 751).
+- D. 1,000.
+
+---
+
+## Question 173
+
+**The "Ordinary Legislative Procedure" requires the joint assent of which two bodies?**
+
+- A. The Commission and the Court of Justice.
+- B. The Parliament and the Council of the European Union.
+- C. The European Council and the United Nations.
+- D. The DPA and the DPO.
+
+---
+
+## Question 174
+
+**Which body represents the "Heads of State or Government" and defines the general political directions of the Union?**
+
+- A. The European Parliament.
+- B. The European Commission.
+- C. The European Council.
+- D. The General Court.
+
+---
+
+## Question 175
+
+**The Council of the European Union (Council of Ministers) is considered an important mouthpiece for what?**
+
+- A. The US tech industry.
+- B. The national interests of the Member States.
+- C. The individual rights of data subjects.
+- D. The personal opinions of the European Commissioners.
+
+---
+
+## Question 176
+
+**Which EU institution is responsible for adopting "Adequacy Findings" for non-EU jurisdictions?**
+
+- A. The European Parliament.
+- B. The European Commission.
+- C. The Court of Justice.
+- D. The Council of Europe.
+
+---
+
+## Question 177
+
+**What is the role of an "Advocate General" at the Court of Justice of the European Union (CJEU)?**
+
+- A. To act as the lead prosecutor in criminal data breach cases.
+- B. To assist the court by giving reasoned, non-binding opinions on how a case should be decided.
+- C. To represent the data subject in court against a large corporation.
+- D. To manage the court's public relations department.
+
+---
+
+## Question 178
+
+**The Court of Justice of the European Union (CJEU) is based in which city?**
+
+- A. Brussels.
+- B. Strasbourg.
+- C. Luxembourg.
+- D. The Hague.
+
+---
+
+## Question 179
+
+**Which court sits in Strasbourg and is NOT part of the EU institutions, but enforces the ECHR?**
+
+- A. The Court of Justice of the European Union.
+- B. The General Court.
+- C. The European Court of Human Rights.
+- D. The European Central Bank.
+
+---
+
+## Question 180
+
+**Which body has the power to "censure" the European Commission, potentially forcing the entire College of Commissioners to resign?**
+
+- A. The European Council.
+- B. The European Parliament.
+- C. The Court of Auditors.
+- D. The national parliaments of each Member State.
+
+---
+
+## Question 181
+
+**The 1995 Directive (95/46/EC) applied to manual data under what condition?**
+
+- A. It never applied to manual data.
+- B. It applied only if the manual data was later scanned into a computer.
+- C. It applied if the manual data was held in a "filing system."
+- D. It applied only to government records, not private sector ones.
+
+---
+
+## Question 182
+
+**The "ePrivacy Directive" (2002/58/EC) applies to which specific type of processing?**
+
+- A. Processing for national security purposes.
+- B. Processing in connection with the provision of publicly available electronic communications services in public networks.
+- C. The processing of paper-based medical files.
+- D. The tracking of students in physical classrooms.
+
+---
+
+## Question 183
+
+**Under the amended ePrivacy Directive, what is the general rule for most forms of digital marketing (e.g., SMS, email)?**
+
+- A. It is always permitted without any restriction.
+- B. It requires the prior (opt-in) consent of the intended recipient.
+- C. It only requires that the sender be a registered EU company.
+- D. It is completely prohibited under all circumstances.
+
+---
+
+## Question 184
+
+**What is the "Soft Opt-in" exemption in the context of email marketing?**
+
+- A. It allows marketing to any person who has ever visited a website.
+- B. It allows businesses to send marketing to existing customers for similar products/services on an opt-out basis.
+- C. It allows marketing to children without parental consent.
+- D. It is a non-binding suggestion for ethical marketing.
+
+---
+
+## Question 185
+
+**The NIS Directive (2016) was the first piece of EU-wide legislation focusing on what?**
+
+- A. Data portability.
+- B. Cybersecurity and the threats posed to network and information systems.
+- C. The use of facial recognition in public spaces.
+- D. The regulation of cryptocurrency mining.
+
+---
+
+## Question 186
+
+**Which sector is NOT listed as an "Operator of Essential Services" (OES) under the NIS Directive?**
+
+- A. Energy.
+- B. Banking.
+- C. Luxury retail fashion.
+- D. Transport.
+
+---
+
+## Question 187
+
+**The proposed EU Artificial Intelligence Act aims to regulate AI systems using which approach?**
+
+- A. A complete ban on all AI development in Europe.
+- B. A risk-based approach with new rules and prohibitions for high-risk systems.
+- C. A "laissez-faire" approach where companies regulate themselves.
+- D. A requirement that all AI be owned by the government.
+
+---
+
+## Question 188
+
+**The E-Commerce Directive (2000/31/EC) contains rules that purports to limit the liability of whom?**
+
+- A. Data subjects who provide false information.
+- B. Intermediary service providers acting as mere conduits, hosts, or caches.
+- C. The European Commission for its adequacy findings.
+- D. Lawyers representing data subjects in court.
+
+---
+
+## Question 189
+
+**The GDPR states it is "without prejudice" to the rules in which directive regarding intermediary liability?**
+
+- A. The ePrivacy Directive.
+- B. The NIS Directive.
+- C. The E-Commerce Directive.
+- D. The Law Enforcement Directive.
+
+---
+
+## Question 190
+
+**Which 2016 Directive deals specifically with the processing of data by competent authorities for criminal penalties?**
+
+- A. The GDPR.
+- B. The NIS Directive.
+- C. The Law Enforcement Directive (LED).
+- D. The ePrivacy Regulation.
 
 
