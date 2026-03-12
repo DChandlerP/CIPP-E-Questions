@@ -1,7 +1,5 @@
 # CIPP-E-Questions
 
-# CIPPE Mock Test — Questions 1–50
-
 ---
 
 ## Scenario A: The "FinTech-Global" Integration
@@ -1066,4 +1064,373 @@ D. The serial number of their device.
 - B. Taking into account the nature of processing, by appropriate technical and organisational measures.
 - C. Never, SARs are the controller's sole job.
 - D. By providing the data directly to the user.
+
+---
+
+## Question 91
+**What is an "Adequacy Decision"?**
+
+- A. A decision that a company's security is "good enough."
+- B. A decision by the Commission that a third country ensures an adequate level of protection.
+- C. A ruling by a local court.
+- D. An internal policy document.
+
+---
+
+## Question 92
+**"Pseudonymisation" is a measure intended to:**
+
+- A. Hide data from the government.
+- B. Reduce the risks to the data subjects concerned.
+- C. Make data completely anonymous.
+- D. Speed up the database.
+
+---
+
+## Question 93
+**Which Article sets out "Conditions for Consent"?**
+
+- A. Article 6.
+- B. Article 7.
+- C. Article 9.
+- D. Article 12.
+
+---
+
+## Question 94
+**A "Data Protection Impact Assessment" (DPIA) is required when processing is:**
+
+- A. Done by a small company.
+- B. Likely to result in a high risk to the rights and freedoms of natural persons.
+- C. For purely personal reasons.
+- D. Using only old technology.
+
+---
+
+## Question 95
+**"Direct Marketing" includes profiling:**
+
+- A. Only if the user is a celebrity.
+- B. To the extent that it is related to such direct marketing.
+- C. Never.
+- D. Only for postal mail.
+
+---
+
+## Question 96
+**"Information Society Services" generally refers to:**
+
+- A. Public libraries.
+- B. Any service normally provided for remuneration, at a distance, by electronic means.
+- C. Talking to a neighbor.
+- D. Reading a printed book.
+
+---
+
+## Question 97
+**The "Right to Restriction of Processing" applies if:**
+
+- A. The accuracy of the personal data is contested by the data subject.
+- B. The user wants to hide their data from their parents.
+- C. The server is full.
+- D. The company is closing down.
+
+---
+
+## Question 98
+**A "Third Party" is:**
+
+- A. The data subject.
+- B. The controller or processor.
+- C. A natural or legal person, public authority, agency or body other than the data subject, controller, processor and persons under their authority.
+- D. The DPO.
+
+---
+
+## Question 99
+**"Biometric Data" used for identifying a natural person is a special category under:**
+
+- A. Article 6.
+- B. Article 9.
+- C. Article 15.
+- D. Article 33.
+
+---
+
+## Question 100
+> **Context Scenario – The "Smart-City" Transport Initiative**
+>
+> A municipal authority uses a mobile app to collect GPS data from public transport users to map traffic congestion. The data is hashed to replace names with unique alphanumeric strings. Planners use this to adjust bus routes.
+
+**How does the GDPR classify the hashed GPS data being used by the planners?**
+
+- A. Anonymous data, as the planners cannot identify individuals.
+- B. Pseudonymized personal data, because the alphanumeric strings can be linked back to individuals with additional information.
+- C. Public domain information, because it is collected in a public transport setting.
+- D. Special category data, because location data is inherently sensitive.
+
+---
+
+## Question 101
+> *(Scenario: The "Smart-City" Transport Initiative – continued)*
+
+**If a user objects to the tracking for congestion mapping, what must the municipal authority demonstrate to continue processing that user's data?**
+
+- A. That the user has no right to object to public authorities.
+- B. Compelling legitimate grounds for the processing which override the interests, rights, and freedoms of the data subject.
+- C. That the data has been encrypted with 256-bit AES.
+- D. That the processing is strictly necessary for the performance of a contract.
+
+---
+
+## Question 102
+> **Context Scenario – The "Auto-Insur" Predictive Algorithm**
+>
+> An insurance company uses an AI algorithm to set premiums. The algorithm analyzes "lifestyle data" inferred from an individual's public social media activity.
+
+**What is the primary transparency obligation for this automated decision-making?**
+
+- A. The company must provide the full mathematical formula of the algorithm.
+- B. The company must provide meaningful information about the logic involved, as well as the significance and envisaged consequences.
+- C. The company is exempt from transparency if the social media data was "manifestly made public."
+- D. Transparency is only required if the data subject is denied insurance.
+
+---
+
+## Question 103
+> *(Scenario: The "Auto-Insur" Predictive Algorithm – continued)*
+
+**If the algorithm "infers" a medical condition from a user's posts about chronic pain, how should this inferred data be treated?**
+
+- A. As regular personal data, because it is an inference, not a diagnosis.
+- B. As a special category of data, as it relates to the health status of a natural person.
+- C. As "household" data, because it originated on a social media profile.
+- D. As anonymous data, because it is a statistical probability.
+
+---
+
+## Question 104
+> **Context Scenario – The "Help-Desk" Remote Access**
+>
+> A German controller uses a technical support firm in India. The Indian agents access the German server remotely to troubleshoot software errors for German customers.
+
+**Does this "remote access" constitute a transfer to a third country?**
+
+- A. No, because the data never leaves the server located in Germany.
+- B. Yes, remote access from a third country is considered a transfer under Chapter V.
+- C. Only if the Indian agent saves a local copy of the data.
+- D. No, because India is considered to have a "limited" adequacy agreement for support services.
+
+---
+
+## Question 105
+> *(Scenario: The "Help-Desk" Remote Access – continued)*
+
+**An Indian agent accidentally deletes 500 customer records. Who is legally responsible for notifying the German Supervisory Authority if the risk is high?**
+
+- A. The Indian support firm.
+- B. The German controller.
+- C. Both the controller and processor jointly.
+- D. The Data Protection Officer of the Indian firm.
+
+---
+
+## Question 106
+> **Context Scenario – The "Retail-Notice" Verbal Agreement**
+>
+> A shop in Sweden asks for a customer's phone number to join a loyalty program. The clerk verbally states, "We'll use this to send you coupons."
+
+**Does this verbal notice satisfy the transparency requirements of the law?**
+
+- A. Yes, verbal notice is a recognized method of providing information.
+- B. No, because it lacks mandatory elements like the controller's identity, retention periods, and data subject rights.
+- C. Yes, as long as the customer does not ask for more detail.
+- D. No, the law requires all notices to be provided in a physical written format.
+
+---
+
+## Question 107
+> *(Scenario: The "Retail-Notice" Verbal Agreement – continued)*
+
+**The shop subsequently uses the phone numbers to "match" customers with their social media profiles for targeted advertising. Is this allowed under the original notice?**
+
+- A. Yes, as long as it increases the shop's revenue.
+- B. No, this "further processing" is likely incompatible with the original purpose of "sending coupons."
+- C. Only if the customer is a "Silver" or "Gold" member.
+- D. Yes, because targeted advertising is a "legitimate interest" of the shop.
+
+---
+
+## Question 108
+> **Context Scenario – The "Ransomware" Availability Loss**
+>
+> A data processor in Poland suffers a ransomware attack that encrypts 5,000 sensitive files. There is no evidence data was stolen, but the controller cannot access the files for 72 hours.
+
+**Is this considered a "personal data breach" according to the legal definition?**
+
+- A. No, because the data was not disclosed to an unauthorized party.
+- B. Yes, a breach of security leading to the accidental or unlawful loss of availability is a personal data breach.
+- C. Only if the processor pays the ransom.
+- D. No, because 72 hours is within the "grace period" for availability loss.
+
+---
+
+## Question 109
+> *(Scenario: The "Ransomware" Availability Loss – continued)*
+
+**When must the Polish processor notify the controller of this incident?**
+
+- A. After they have decrypted the files.
+- B. Without undue delay after becoming aware of the breach.
+- C. Within exactly 72 hours.
+- D. Only if the controller asks for a status update.
+
+---
+
+## Question 110
+> **Context Scenario – The "Withdrawal" Detriment**
+>
+> A fitness app user withdraws their consent for the processing of their heart rate data. The app provider responds by banning the user from the app's "social community" feature, which does not require heart rate data.
+
+**Is the app provider's action compliant with the conditions for consent?**
+
+- A. Yes, the provider can set its own terms of service.
+- B. No, consent is not "freely given" if the data subject suffers detriment for withdrawing it.
+- C. Yes, as long as the user is given a partial refund.
+- D. No, withdrawal of consent is only allowed once per year.
+
+---
+
+## Question 111
+> **Context Scenario – The "Child-Safety" Social App**
+>
+> A social media app in France targets children aged 10–13. France has not lowered the age of consent for information society services below the default of 16.
+
+**At what age can a child in France provide their own valid consent for this app?**
+
+- A. 13.
+- B. 14.
+- C. 16.
+- D. 18.
+
+---
+
+## Question 112
+> *(Scenario: The "Child-Safety" Social App – continued)*
+
+**The app uses a "privacy notice" with cartoons and simple language. Which principle does this specifically address?**
+
+- A. Purpose Limitation.
+- B. Data Minimisation.
+- C. Transparency, specifically for data subjects who are children.
+- D. Accountability.
+
+---
+
+## Question 113
+> **Context Scenario – The "Ex-Employee" Subject Access Request**
+>
+> A former employee of a Belgian bank requests access to all their personal data, including the manager's internal comments on their performance and their corporate email history.
+
+**Is the manager's "subjective opinion" on the employee's performance considered the employee's personal data?**
+
+- A. No, opinions are the property of the person who wrote them.
+- B. Yes, any information, whether objective or subjective, relating to an identified natural person is personal data.
+- C. Only if the opinion is written in a digital format.
+- D. No, performance reviews are exempt under the "trade secret" rule.
+
+---
+
+## Question 114
+> *(Scenario: The "Ex-Employee" Subject Access Request – continued)*
+
+**The bank refuses to provide the email history, claiming it would take "too much effort" to redact other people's names. What is the standard for such a refusal?**
+
+- A. The bank can refuse if the request is "manifestly unfounded or excessive."
+- B. The bank must provide everything regardless of the effort required.
+- C. The bank can charge a fee of €50 per hour of work.
+- D. The bank only has to provide data collected in the last 12 months.
+
+---
+
+## Question 115
+> **Context Scenario – The "International-Subsidiary" Data Flow**
+>
+> An Italian company sends employee HR records to its parent company in Thailand for centralized payroll processing.
+
+**What is the classification of this data flow under Chapter V?**
+
+- A. Internal processing, not requiring a transfer mechanism.
+- B. A transfer to a third country, requiring "appropriate safeguards."
+- C. An "adequate" transfer, because Thailand is an EU trading partner.
+- D. A "household" activity of the parent company.
+
+---
+
+## Question 116
+> *(Scenario: The "International-Subsidiary" Data Flow – continued)*
+
+**If the parent company in Thailand suffers a breach, who must notify the Italian Supervisory Authority?**
+
+- A. The Thai parent company.
+- B. The Italian subsidiary (as the controller of the employee data).
+- C. The Thai national police.
+- D. The European Commission.
+
+---
+
+## Question 117
+> **Context Scenario – The "Direct-Mail" House-Move**
+>
+> A furniture store in Spain buys a list of "new homeowners" from a real estate portal and sends a physical catalog addressed to "The Occupier" at specific addresses.
+
+**Does sending a catalog to an address (without a name) constitute the processing of personal data?**
+
+- A. No, because "The Occupier" is not a name.
+- B. Yes, if the address identifies a specific natural person or household that can be singled out, it is personal data.
+- C. Only if the catalog contains a personalized discount code.
+- D. No, the law does not apply to paper mail.
+
+---
+
+## Question 118
+> **Context Scenario – The "Bank-Portability" Switch**
+>
+> A customer wants to move their bank account from Bank A to Bank B. They request that Bank A "port" their full transaction history and their internal "Credit Risk Profile" generated by Bank A's algorithms.
+
+**Which data is subject to the Right to Data Portability?**
+
+- A. The transaction history (provided by or generated by the user's activity).
+- B. The internal "Credit Risk Profile" created by the bank.
+- C. Both A and B.
+- D. Neither, because banks are exempt from portability.
+
+---
+
+## Question 119
+> **Context Scenario – The "Fake-Camera" Deterrent**
+>
+> A grocery store installs plastic, non-functional "dummy" cameras to deter shoplifting. No footage is recorded.
+
+**Does the GDPR apply to these fake cameras?**
+
+- A. Yes, because they impact the data subjects' behavior.
+- B. No, because no personal data is being processed.
+- C. Yes, under the principle of transparency.
+- D. Only if the cameras have a red blinking light.
+
+---
+
+## Question 120
+> **Context Scenario – The "DPO-CTO" Dual Role**
+>
+> A company appoints its Chief Technology Officer (CTO) as the Data Protection Officer (DPO). The CTO determines which cybersecurity vendors the company uses.
+
+**Is this appointment compliant with the requirements of the law?**
+
+- A. Yes, as long as the CTO reports to the CEO.
+- B. No, the DPO must not have a conflict of interest with tasks that determine the "purposes and means" of processing.
+- C. Yes, because technical expertise is a requirement for a DPO.
+- D. Only if the company has fewer than 250 employees.
+
 
