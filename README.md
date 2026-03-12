@@ -1433,4 +1433,367 @@ D. The serial number of their device.
 - C. Yes, because technical expertise is a requirement for a DPO.
 - D. Only if the company has fewer than 250 employees.
 
+---
+
+## Question 121
+
+> **Context Scenario – The "Social-Login" Interplay**
+>
+> A news website allows users to sign up using a "Social Media Login." When clicked, the social media platform receives the user's IP address and the fact they are visiting the news site.
+
+**According to recent case law (Fashion ID), what is the news website's status?**
+
+- A. Processor for the social media platform.
+- B. Joint controller with the social media platform for the collection and transmission stage.
+- C. Separate and independent controller.
+- D. Data subject of the social media platform.
+
+---
+
+## Question 122
+
+> *(Scenario: The "Social-Login" Interplay – continued)*
+
+**Which principle is violated if the news website does not inform the user about this data sharing before they click the button?**
+
+- A. Accuracy.
+- B. Transparency.
+- C. Storage Limitation.
+- D. Data Portability.
+
+---
+
+## Question 123
+
+> **Context Scenario – The "Old-Client" Archive**
+>
+> A law firm keeps its physical paper files from 1995 in a locked basement. The boxes are labeled by "Year" and then "Client Name."
+
+**Do these paper files fall within the material scope of the law?**
+
+- A. No, they were created before the GDPR.
+- B. Yes, because they form part of a structured filing system accessible according to specific criteria.
+- C. No, the law only applies to automated processing.
+- D. Only if the files are scanned into a computer.
+
+---
+
+## Question 124
+
+> *(Scenario: The "Old-Client" Archive – continued)*
+
+**The firm realizes some files contain special category data. Which principle prohibits them from keeping these records indefinitely?**
+
+- A. Data Minimisation.
+- B. Storage Limitation.
+- C. Fairness.
+- D. Integrity.
+
+---
+
+## Question 125
+
+> **Context Scenario – The "Global-Analytics" Cookies**
+>
+> A US-based retailer has a website accessible in the EU. It uses analytical cookies to track visit counts. It does not sell products to the EU or accept Euro.
+
+**Is the retailer subject to the GDPR?**
+
+- A. Yes, because any website accessible in the EU is subject to the law.
+- B. No, the "mere accessibility" of a website is not enough to constitute "targeting" or behavior monitoring under Article 3.
+- C. Yes, because cookies are personal data.
+- D. Only if the retailer uses a server located in a Member State.
+
+---
+
+## Question 126
+
+> **Context Scenario – The "In-App" Micro-Location**
+>
+> A gaming app uses technology to track exactly which aisle a user is standing in inside a physical retail store.
+
+**What is the legal requirement under the ePrivacy framework for this?**
+
+- A. Explicit consent is needed for "Marketing Beacons."
+- B. Prior informed consent is required to access information already stored on the terminal equipment (the phone).
+- C. No consent is needed if the app is free.
+- D. Only the retail store needs to provide notice.
+
+---
+
+## Question 127
+
+> *(Scenario: The "In-App" Micro-Location – continued)*
+
+**If the app developer is based in a third country (e.g., Thailand) with no EU establishment, who must they appoint?**
+
+- A. A Data Protection Officer.
+- B. An Article 27 Representative in the Union.
+- C. A Chief Security Officer.
+- D. A Marketing Manager.
+
+---
+
+## Question 128
+
+> **Context Scenario – The "Research-Broad-Consent"**
+>
+> A university is conducting a study on genetic markers. They ask participants to consent to their data being used for "any future research into hereditary diseases."
+
+**Is this "broad" consent valid?**
+
+- A. No, consent must always be strictly specific to a single purpose.
+- B. Yes, the law acknowledges that in scientific research, purposes cannot always be fully identified at the start.
+- C. Only if the research is funded by the government.
+- D. No, because "hereditary diseases" is too vague.
+
+---
+
+## Question 129
+
+> *(Scenario: The "Research-Broad-Consent" – continued)*
+
+**If the university wants to keep the blood samples for 50 years, which principle must they justify?**
+
+- A. Accuracy.
+- B. Storage Limitation.
+- C. Data Portability.
+- D. Confidentiality.
+
+---
+
+## Question 130
+
+> **Context Scenario – The "Erasure-Backup" Conflict**
+>
+> A user requests erasure of their profile. The site deletes it from the live database, but it remains on a backup tape that will be overwritten in 9 months.
+
+**What is the correct stance on this?**
+
+- A. The backup tape must be physically destroyed immediately.
+- B. The site must ensure the data is not restored to the live system and explain that the data will be eventually overwritten.
+- C. The site can ignore the request for backups.
+- D. The site must charge the user for a new backup tape.
+
+---
+
+## Question 131
+
+**What is the consequence for a processor that moves data to a different data center without notifying the controller?**
+
+- A. They remain a processor but must pay a fine.
+- B. They are considered a controller for that processing because they exceeded instructions.
+- C. Nothing, as long as security remains the same.
+- D. The controller becomes a sub-processor.
+
+---
+
+## Question 132
+
+**When a data subject makes a request over the phone, is asking for a passport number to verify identity appropriate?**
+
+- A. Yes, identity must be 100% certain.
+- B. Only if it is proportionate and necessary to verify the identity, avoiding excessive collection.
+- C. No, verbal verification is always enough.
+- D. Yes, as long as the clerk deletes the photo later.
+
+---
+
+## Question 133
+
+**A company bottom-of-email opt-out link says: "To opt out, please log in to your account and go to settings." Is this compliant?**
+
+- A. Yes, it is secure.
+- B. No, withdrawing consent must be as easy as it was to give it.
+- C. Yes, as long as the user remembers their password.
+- D. Only if the company also provides a phone number.
+
+---
+
+## Question 134
+
+**Which exception allows a private pharmaceutical company to use medical records during an outbreak without consent?**
+
+- A. Vital Interests.
+- B. Public interest in the area of public health on the basis of law.
+- C. Manifestly made public.
+- D. Contract performance.
+
+---
+
+## Question 135
+
+**Is a Data Protection Impact Assessment (DPIA) mandatory for installing "Sentiment Analysis" AI to monitor employee emails?**
+
+- A. No, employees have no privacy at work.
+- B. Yes, because it involves systematic monitoring of a vulnerable population and use of new technology.
+- C. Only if the company has over 1,000 employees.
+- D. No, because morale is not "personal data."
+
+---
+
+## Question 136
+
+**A website targeting tourists in Germany has a cookie banner written only in French. Which requirement is violated?**
+
+- A. Accuracy.
+- B. Information must be in an intelligible form using clear and plain language the target audience can understand.
+- C. Storage Limitation.
+- D. Data Portability.
+
+---
+
+## Question 137
+
+**An airline requires pilots to undergo genetic tests to check for heart failure risks. Is this lawful?**
+
+- A. Yes, passenger safety is a "vital interest."
+- B. No, genetic data processing is generally prohibited in employment unless authorized by specific Member State law.
+- C. Yes, if the pilots give explicit consent.
+- D. Only if the test results are stored in the aircraft's black box.
+
+---
+
+## Question 138
+
+**In a joint controllership, a user asks Controller A for access to data held by Controller B. How must Controller A respond?**
+
+- A. Tell the user to contact Controller B directly.
+- B. Provide the data, as subjects may exercise rights against each of the controllers.
+- C. Charge the user a "coordination fee."
+- D. Refuse, as they are separate legal entities.
+
+---
+
+## Question 139
+
+**Must an Ad-Tech firm provide a user with a list of "interests" it has inferred about them?**
+
+- A. No, profiles are the firm's intellectual property.
+- B. Yes, the right of access includes any information relating to an identified or identifiable natural person.
+- C. Only if the profile is "incorrect."
+- D. No, because Ad-Tech data is "pseudonymous."
+
+---
+
+## Question 140
+
+**Who has the final say on the "appropriateness" of a processor's technical security measures?**
+
+- A. The processor, as the expert.
+- B. The controller, who must ensure the processor provides "sufficient guarantees."
+- C. The Supervisory Authority.
+- D. The ISO auditor.
+
+---
+
+## Question 141
+
+**An HR manager accidentally uploads salaries to the website for 5 minutes. No one downloaded it. Is this a reportable breach to the DPA?**
+
+- A. No, it was only 5 minutes.
+- B. Yes, if there is a risk to the rights and freedoms of individuals.
+- C. Only if the salaries were over €100,000.
+- D. No, because it was an internal mistake.
+
+---
+
+## Question 142
+
+**A company removes names but keeps Date of Birth, Postal Code, and Gender. Is this data anonymous?**
+
+- A. Yes, because there is no name.
+- B. No, the combination often allows "singling out," meaning it is still personal data.
+- C. Yes, as long as the town has more than 1,000 people.
+- D. No, because dates are always special categories.
+
+---
+
+## Question 143
+
+**Is "basis-switching" (switching from consent to legitimate interest after consent is withdrawn) allowed?**
+
+- A. Yes, as long as the DPO is happy.
+- B. No, controllers must determine the lawful basis before processing; switching is seen as unfair.
+- C. Yes, if the company pays a fine.
+- D. Only if the data subject is an employee.
+
+---
+
+## Question 144
+
+**Is "PDF" considered a "structured, commonly used and machine-readable format" for portability?**
+
+- A. Yes.
+- B. No, machine-readable formats usually require structures like JSON or CSV that can be imported by other computers.
+- C. Only if the PDF is not encrypted.
+- D. Yes, as long as it's not a scan of a paper.
+
+---
+
+## Question 145
+
+**What is the controller's obligation when a customer objects to profiling for "personalized discounts"?**
+
+- A. Perform a balancing test to see if profit outweighs privacy.
+- B. Stop the processing for direct marketing purposes immediately, as this right is absolute.
+- C. Continue, but only send "general" discounts.
+- D. Delete the user's entire account.
+
+---
+
+## Question 146
+
+**A request reveals emails where employees are gossiping about a third employee. Must the employer provide these to that third employee?**
+
+- A. No, gossip is not "personal data."
+- B. Yes, if it relates to the requester, but the names of the gossiping employees should be redacted.
+- C. Yes, because employees have no right to privacy from each other.
+- D. Only if the gossip is true.
+
+---
+
+## Question 147
+
+**What is the primary goal of a Transfer Impact Assessment (TIA)?**
+
+- A. To see if the importer company is profitable.
+- B. To assess if the laws of the third country provide a level of protection essentially equivalent to the EU.
+- C. To check if the SCCs are signed in blue ink.
+- D. To ensure the importer has a DPO.
+
+---
+
+## Question 148
+
+**A medical database has an incorrect blood type for a patient. Under which principle must it be fixed?**
+
+- A. Transparency.
+- B. Accuracy.
+- C. Data Minimisation.
+- D. Portability.
+
+---
+
+## Question 149
+
+**A company has headquarters in Dublin but all data processing decisions are made in Berlin. Where is the "Main Establishment"?**
+
+- A. Dublin.
+- B. Berlin.
+- C. Both.
+- D. Brussels.
+
+---
+
+## Question 150
+
+**What is the maximum fine for violating the principles of Article 5?**
+
+- A. €10 Million or 2% of turnover.
+- B. €20 Million or 4% of total worldwide annual turnover, whichever is higher.
+- C. €100 Million.
+- D. 10% of turnover.
+
+
 
